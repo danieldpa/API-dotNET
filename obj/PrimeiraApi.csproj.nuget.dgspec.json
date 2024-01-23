@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\daniel.paula\\Documents\\API-dotNET\\PrimeiraApi.csproj": {}
+    "C:\\Users\\dan12\\OneDrive\\Documentos\\Cursos\\dot NET\\Cristian William Dev - Youtube\\WebAPI\\PrimeiraApi\\PrimeiraApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\daniel.paula\\Documents\\API-dotNET\\PrimeiraApi.csproj": {
+    "C:\\Users\\dan12\\OneDrive\\Documentos\\Cursos\\dot NET\\Cristian William Dev - Youtube\\WebAPI\\PrimeiraApi\\PrimeiraApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\daniel.paula\\Documents\\API-dotNET\\PrimeiraApi.csproj",
+        "projectUniqueName": "C:\\Users\\dan12\\OneDrive\\Documentos\\Cursos\\dot NET\\Cristian William Dev - Youtube\\WebAPI\\PrimeiraApi\\PrimeiraApi.csproj",
         "projectName": "PrimeiraApi",
-        "projectPath": "C:\\Users\\daniel.paula\\Documents\\API-dotNET\\PrimeiraApi.csproj",
-        "packagesPath": "C:\\Users\\daniel.paula\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\daniel.paula\\Documents\\API-dotNET\\obj\\",
+        "projectPath": "C:\\Users\\dan12\\OneDrive\\Documentos\\Cursos\\dot NET\\Cristian William Dev - Youtube\\WebAPI\\PrimeiraApi\\PrimeiraApi.csproj",
+        "packagesPath": "C:\\Users\\dan12\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dan12\\OneDrive\\Documentos\\Cursos\\dot NET\\Cristian William Dev - Youtube\\WebAPI\\PrimeiraApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\daniel.paula\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\dan12\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -66,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

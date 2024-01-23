@@ -65,3 +65,4 @@ C:\Users\daniel.paula\Documents\API-dotNET\obj\Debug\net8.0\refint\PrimeiraApi.d
 C:\Users\daniel.paula\Documents\API-dotNET\obj\Debug\net8.0\PrimeiraApi.pdb
 C:\Users\daniel.paula\Documents\API-dotNET\obj\Debug\net8.0\PrimeiraApi.genruntimeconfig.cache
 C:\Users\daniel.paula\Documents\API-dotNET\obj\Debug\net8.0\ref\PrimeiraApi.dll
+C:\Users\dan12\OneDrive\Documentos\Cursos\dot NET\Cristian William Dev - Youtube\WebAPI\PrimeiraApi\obj\Debug\net8.0\PrimeiraApi.sourcelink.json
